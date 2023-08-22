@@ -4,6 +4,11 @@
 - I recently completed an Android Development Course at [CodePath](https://www.codepath.org/).
 - I’m currently learning about computer organization and the interactions between computer hardware and software using the assembly language MIPS.
 - If I'm not found coding, I'm either playing basketball with friends or hanging out with my family.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Languages: Java, Kotlin, C++
+IDEs: Visual Code Studio, Android Studio, Eclipse
 <!--
 **JacobTang06/JacobTang06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
