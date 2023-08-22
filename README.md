@@ -1,6 +1,7 @@
 ### Hi, I am Jacob Tang 👋
 
 - I am currently a Computer Science undergraduate at SDSU pursuing my Bachelor's Degree.
+- I recently completed an Android Development Course at [CodePath]([url](https://www.codepath.org/)).
 - I’m currently learning about computer organization and the interactions between computer hardware and software using the assembly language MIPS.
 - If I'm not found coding, I'm either playing basketball with friends or hanging out with my family.
 <!--
