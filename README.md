@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I am Jacob Tang 👋
 
+- I am currently a Computer Science undergraduate at SDSU pursuing my Bachelor's Degree.
+- I’m currently learning about computer organization and the interactions between computer hardware and software using the assembly language MIPS.
+- If I'm not found coding, I'm either playing basketball with friends or hanging out with my family.
 <!--
 **JacobTang06/JacobTang06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
