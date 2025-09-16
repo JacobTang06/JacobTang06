@@ -4,6 +4,11 @@
 - I'm currently learning the fundamentals of different programming languages, mainly focused on **C++**, **Java**, and **Python** 👨‍💻
 - If I'm not found coding, I'm either playing basketball with friends or hanging out with my family 🏀
  _____________________________________________________________________________ 
+ 
+ ![Github Stats](https://github-readme-statistics-six.vercel.app/api?username=JacobTang06&theme=tokyonight&show_icons=true)
 
-**Languages**: Java, Kotlin, C/C++, Python, SQL 
-**Tools**: Visual Code Studio, Android Studio, Eclipse, Git, Firebase
+ ![Languages](https://github-readme-statistics-six.vercel.app/api/top-langs/?username=JacobTang06&theme=tokyonight&layout=donut-vertical)
+
+**Languages**: Java, Kotlin, C++, Python, SQL 
+
+**Tools**: Visual Code Studio, Android Studio, Git/Github, Firebase
