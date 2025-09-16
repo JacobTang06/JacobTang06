@@ -5,7 +5,7 @@
 - If I'm not found coding, I'm either playing basketball with friends or hanging out with my family 🏀
  _____________________________________________________________________________ 
 
-![Jacob's GitHub stats](https://github-readme-statistics-f4y2uv8mt-jacob-tangs-projects.vercel.app/api?username=JacobTang06&theme=dark&show_icons=true)
+![Jacob's GitHub stats](https://github-readme-statistics-3tx6vez4g-jacob-tangs-projects.vercel.app/api?username=JacobTang06&theme=dark&count_private=true&cache_bust=2)
 
 **Languages**: Java, Kotlin, C/C++, Python, SQL 
 **Tools**: Visual Code Studio, Android Studio, Eclipse, Git, Firebase
