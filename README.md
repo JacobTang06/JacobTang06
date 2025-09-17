@@ -7,7 +7,7 @@
  
  ![Github Stats](https://github-readme-statistics-six.vercel.app/api?username=JacobTang06&theme=tokyonight&show_icons=true)
 
- ![Languages](https://github-readme-statistics-six.vercel.app/api/top-langs/?username=JacobTang06&theme=tokyonight&layout=donut-vertical)
+ ![Languages](https://github-readme-statistics-six.vercel.app/api/top-langs/?username=JacobTang06&theme=tokyonight&layout=donut-vertical&exclude_repo=github-readme-stats,github-readme-statistics)
 
 **Languages**: Java, Kotlin, C++, Python, SQL 
 
